@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hamid-M-Jalili
-- 👀 I’m looking for roles in where I can apply Machine Learning Algorithms on real world issues
+- 👀 I’m looking for roles in which I can apply Machine Learning Algorithms on real world issues
 - 🌱 I’m currently a graduate student at Stony Brook University, studying Electrical Engineering with a graduation date of May 2022 
 - 📫 You can reach me at hamidmjalili@gmail.com or via Linkedin at linkedin.com/in/hamid-jalili   
 
